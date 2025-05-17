@@ -58,9 +58,7 @@ sudo apt update&&sudo apt install gnome-terminal
 You should run as root:
 ```
 Savage [-h] [-p PORT] [-x HOAX_PORT] [-n NETCAT_PORT] [-f FILE_SMUGGLER_PORT] [-i] [-c CERTFILE] [-k KEYFILE] [-u] [-q] 
-```
-
-Check out the [Usage Guide](https://github.com/BenzoXdev/Savage/blob/main/Usage_Guide.md) for more.  
+``` 
 
 :warning: Create your own obfuscated reverse shell templates and replace the default ones in your instance of Savage to better handle AV evasion.
 
