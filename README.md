@@ -2,7 +2,6 @@
 [![Python](https://img.shields.io/badge/Python-%E2%89%A5%203.6-yellow.svg)](https://www.python.org/) 
 <img src="https://img.shields.io/badge/PowerShell-%E2%89%A5%20v3.0-blue">
 <img src="https://img.shields.io/badge/Developed%20on-kali%20linux-blueviolet">
-[![License](https://img.shields.io/badge/License-CC%20Attr--NonCommercial%204.0-red)](https://github.com/BenzoXdev/Savage/blob/main/LICENSE.md)
 <img src="https://img.shields.io/badge/Maintained%3F-Yes-96c40f">
 
 ## Purpose
@@ -22,16 +21,6 @@ The framework's main features include:
 |---------------------------------|
 | **This project is in active development**. Expect breaking changes with releases. |
 | Using this tool against hosts that you do not have explicit permission to test is illegal. You are responsible for any trouble you may cause by using this tool. |
-
-## Preview
-
-
-https://github.com/BenzoXdev/Savage/assets/75489922/20bf0ad5-d06f-4658-bb43-1bb0359fe3f7
-
-
-
-
-![image](https://user-images.githubusercontent.com/75489922/228979419-340918d4-3c04-48b6-913a-91aaf8756ff6.png)  
 
 ## Installation 
 
